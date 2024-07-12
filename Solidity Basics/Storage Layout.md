@@ -1,0 +1,8 @@
+- Data are stored in slots, which is 32 bytes in length
+- Data is continuously stored in order starting with the first state variable, which is `slot 0`
+- If multiple variables size right next to each other, and their size added up doesn't exceed 32 bytes, they are stored in the same slot 
+	- for example, `uint240` and `bytes8` and `uint8` are stored in the same slot if they are next to each other, and if `uint240` starts on the fresh slot
+- [[Structs]] and [[Arrays]] always start on a new slot
+- Data following [[Structs]] and [[Arrays]] always start on a new slot
+- Static arrays are stored continuously, while dynamic are not, see [[Storage Layout of Dynamic Array]]
+- [[Storage Layout of Mappings]]

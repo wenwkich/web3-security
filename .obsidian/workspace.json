@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "1215651e3738a489",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce48148481b12223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "018955d9283368f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity Basics/Structure of a Contract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9248c13f83645968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity Basics/Functions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fd286a458b1b4a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "805e13a01e2cad7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b52b5774243ae0fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3be64f37a2621138",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9aef5b80f5adfa4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3dd555b89f23df6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa36028c60509947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec835d1ce674c8c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solidity Basics/Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9383d504f883f14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Solidity Basics/Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "058eba702e8e5c60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9674760ea8e81c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Solidity Basics/Functions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9248c13f83645968",
+  "lastOpenFiles": [
+    "Solidity Basics/ERC20.md",
+    "Solidity Basics/Enums.md",
+    "Solidity Basics/Decimals.md",
+    "Solidity Basics/Data Location.md",
+    "Solidity Basics/Constants.md",
+    "Solidity Basics/Arrays.md",
+    "Solidity Basics/Array Slices.md",
+    "Solidity Basics/Address.md",
+    "Solidity Basics/Send, Transfer and Call.md",
+    "Solidity Basics/Storage Layout.md",
+    "Solidity Basics/Types.md",
+    "Solidity Basics/Immutable.md",
+    "Solidity Basics/Structure of a Contract.md",
+    "Solidity Basics/Functions.md",
+    "Solidity Basics/Structs.md",
+    "Solidity Basics",
+    "Solidity Basics/Memory Layout.md",
+    "Solidity Basics/Storage Layout of Mappings.md",
+    "Solidity Basics/Storage Layout of Dynamic Array.md",
+    "Solidity Basics/Mapping Types.md",
+    "Solidity Basics/Value Types.md",
+    "Solidity Basics/Reference Types.md",
+    "Solidity Basics/Payable.md",
+    "Common Hacks/Arithmetic overflow or underflow.md",
+    "Common Hacks/Denial of Service.md",
+    "Common Hacks/Reentrancy.md",
+    "Common Hacks/Self Destruct.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Insecure Patterns",
+    "Common Hacks",
+    "Insecure Pattern",
+    "tracked_files.json",
+    "styles.css",
+    "manifest.json",
+    "Unconfirmed 248378.crdownload",
+    "main.js",
+    "Unconfirmed 962417.crdownload",
+    "Pasted image 20240712113027.png",
+    "Pasted image 20240712113456.png"
+  ]
+}

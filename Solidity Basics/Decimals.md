@@ -1,0 +1,1 @@
+Decimals are in the [[ERC20]] standard, which define how divisible a token can be

@@ -1,0 +1,13 @@
+- Boolean
+- Integers
+- [[Address]]
+- Contract Types
+- Fixed-size [[Arrays]]
+- Address literals
+- Integer literals
+- String literals
+- Unicode literals
+- Hexadecimal literals
+- Enums
+- User-defined value types
+- Function types
