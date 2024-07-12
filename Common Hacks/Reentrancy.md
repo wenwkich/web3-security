@@ -59,4 +59,5 @@ contract Attack {
 Solutions:
 1. use "check-effect-interaction" pattern
 2. use `nonReentrant` guard from openzeppelin (the best solution)
+	- after solidity 0.8.24, you can use [[Transient Storage]] to save more gas
 3. don't use `call()`, which will forward all gas

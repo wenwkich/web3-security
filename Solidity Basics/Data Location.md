@@ -1,8 +1,8 @@
 Three types of data location: `storage`, `memory` and `calldata`:
 - `storage` will persist in the blockchain state
-- `memory` is volatile, clears outside of a function
+- `memory` is volatile, gets cleared outside of a function
 	- used when modification is needed
-- `calldata` is from the calldata of a ethereum transaction
+- `calldata` is a special location of function argument
 	- immutable
 	- save more gas
 
