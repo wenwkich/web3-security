@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "690f24613b3983ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity Basics/Basics of Smart Contracts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "806f7ce382465e21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity Basics/Basics of Smart Contracts.md",
-                "mode": "source",
+                "file": "Solidity Basics/Sending Ether with Send, Transfer and Call.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity Basics/Basics of Smart Contracts.md",
+                "file": "Solidity Basics/Sending Ether with Send, Transfer and Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity Basics/Basics of Smart Contracts.md",
+                "file": "Solidity Basics/Sending Ether with Send, Transfer and Call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidity Basics/Basics of Smart Contracts.md"
+                "file": "Solidity Basics/Sending Ether with Send, Transfer and Call.md"
               }
             }
           }
@@ -145,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "690f24613b3983ae",
+  "active": "806f7ce382465e21",
   "lastOpenFiles": [
+    "Solidity Basics/Reference Types.md",
+    "Solidity Basics/Payable.md",
+    "Solidity Basics/Memory Layout.md",
+    "Solidity Basics/Mapping Types.md",
     "Solidity Basics/Library.md",
-    "Solidity Basics/Basics of Smart Contracts.md",
+    "Solidity Basics/Interface.md",
+    "Solidity Basics/Calling other contract.md",
+    "Solidity Basics/Inheritance.md",
+    "Solidity Basics/Immutable.md",
+    "Solidity Basics/Globally available variables.md",
     "Solidity Basics/Functions.md",
     "Solidity Basics/Function Selector.md",
     "Solidity Basics/Function Modifiers.md",
+    "Solidity Basics/Basics of Smart Contracts.md",
+    "Solidity Basics/Fallback and Receive.md",
+    "Solidity Basics/Events.md",
+    "Solidity Basics/Errors.md",
     "Solidity Basics/ERC20.md",
-    "Solidity Basics/Reference Types.md",
-    "Solidity Basics/Data Location.md",
     "Solidity Basics/Enums.md",
     "Solidity Basics/Decimals.md",
+    "Solidity Basics/Data Location.md",
     "Solidity Basics/Create and Create2.md",
     "Solidity Basics/Conversion of Types.md",
     "Solidity Basics/Control Structure.md",
     "Solidity Basics/Constructor.md",
     "Solidity Basics/Constants.md",
-    "Solidity Basics/Calling other contract.md",
-    "Solidity Basics/Call and Delegatecall.md",
-    "Solidity Basics/Storage Layout.md",
-    "Solidity Basics/Memory Layout.md",
-    "Solidity Basics/Inheritance.md",
-    "Solidity Basics/Fallback.md",
-    "Solidity Basics/Storage Layout of Dynamic Array.md",
-    "Solidity Basics/Sending Ether with Send, Transfer and Call.md",
-    "Solidity Basics/Payable.md",
-    "Solidity Basics/Mapping Types.md",
-    "Solidity Basics/Interface.md",
     "Untitled",
     "Solidity Basics",
     "Untitled 2.canvas",

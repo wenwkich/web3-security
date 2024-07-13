@@ -24,3 +24,7 @@ contract B is A {
 ```
 
 While functions can be overridden, state variables are not allowed to be overridden
+
+You can use `super()` or `A.foo()` to access the parent contract
+See more complicated use case here:
+https://solidity-by-example.org/super/

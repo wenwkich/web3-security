@@ -20,7 +20,7 @@ Getter function can be declared:
 - `pure` function declares that no state variable will be changed or read
 
 Also a function can be declared [[Payable]]
-There are also special function like [[Fallback]]
+There are also special function like [[Fallback and Receive]]
 
 Check [[Inheritance]] for function overriding
 
