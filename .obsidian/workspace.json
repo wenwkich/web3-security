@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity Basics/Basics of Smart Contracts.md",
+                "file": "Common Hacks/Phishing with tx.origin.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "68cab9e8c8e40b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity Basics/Delete.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity Basics/Delete.md",
+                "file": "Common Hacks/Phishing with tx.origin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity Basics/Delete.md",
+                "file": "Common Hacks/Phishing with tx.origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidity Basics/Delete.md"
+                "file": "Common Hacks/Phishing with tx.origin.md"
               }
             }
           }
@@ -159,9 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68cab9e8c8e40b26",
+  "active": "b52b5774243ae0fd",
   "lastOpenFiles": [
+    "Common Hacks/Denial of Service.md",
+    "Common Hacks/Phishing with tx.origin.md",
+    "Common Hacks/Reentrancy.md",
+    "Common Hacks/Source of Randomness.md",
+    "Common Hacks/Delegatecall Exploit.md",
+    "Common Hacks/Self Destruct.md",
     "Solidity Basics/Basics of Smart Contracts.md",
+    "Insecure Patterns/External call does not revert when return false.md",
     "Solidity Basics/Delete.md",
     "Solidity Basics/Address.md",
     "Solidity Basics/Sending Ether with Send, Transfer and Call.md",
@@ -180,13 +174,6 @@
     "Solidity Basics/Calling other contract.md",
     "Solidity Basics/Inheritance.md",
     "Solidity Basics/Immutable.md",
-    "Solidity Basics/Globally available variables.md",
-    "Solidity Basics/Functions.md",
-    "Solidity Basics/Function Selector.md",
-    "Solidity Basics/Function Modifiers.md",
-    "Solidity Basics/Fallback and Receive.md",
-    "Solidity Basics/Events.md",
-    "Solidity Basics/Errors.md",
     "Untitled",
     "Solidity Basics",
     "Untitled 2.canvas",

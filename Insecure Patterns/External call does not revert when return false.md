@@ -38,3 +38,4 @@ function _returnDust() private {
 }
 ```
 
+Similar mistakes include [[Call and Delegatecall]] not reverting if the result fails (it returns false only), ERC20 transfer etc. 
