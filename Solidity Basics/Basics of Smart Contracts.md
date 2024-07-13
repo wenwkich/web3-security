@@ -15,3 +15,4 @@
 - [[Library]]
 - [[Calling other contract]]
 - [[Create and Create2]]
+- [[Delete]]
