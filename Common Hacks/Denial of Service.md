@@ -1,3 +1,5 @@
+#DoS 
+
 https://solidity-by-example.org/hacks/denial-of-service/
 
 The following code will result in denial of service because `Attack` didn't implement a [[Payable]] [[Fallback and Receive]], if the `Attack` becomes the `king`, the call to repay ether to `king` will fail always, result in a denial of service

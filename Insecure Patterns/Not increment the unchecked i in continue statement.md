@@ -1,4 +1,4 @@
-#out-of-gas
+#infinite-loop
 
 The following code use `unchecked` pattern to save gas when increment a for loop, but might result in the infinite loop because in the clause where it continues, it didn't increment the `i`
 ```solidity

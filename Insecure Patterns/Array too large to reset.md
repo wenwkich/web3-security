@@ -1,4 +1,4 @@
-#array #exceed-block-limit
+#array #block-limit-exceeded
 
 If the array in storage is too large, it will take more gas to reset the array that might exceed the block gas limit
 Solidity array doesn't just reset the length, it also reset each value in it

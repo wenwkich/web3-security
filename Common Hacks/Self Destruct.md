@@ -1,4 +1,4 @@
-#DoS[[Denial of Service]]
+#DoS
 
 https://solidity-by-example.org/hacks/self-destruct/
 
