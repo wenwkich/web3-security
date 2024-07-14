@@ -5,12 +5,23 @@ https://www.youtube.com/watch?v=whjRc4H-rAc
 [[Create and Create2]]
 [[Self Destruct]]
 
-This one is little complicated, 
-First attacker needs to deploy  `DeployerDeployer` and let it deploy `Deployer` using `create2`  (at `addressDeployer` )
-`Deployer` then deploys a `Proposal` using `create`
+This one is little complicated:
+First attacker needs to deploy  `DeployerDeployer` and let it deploy `Deployer` using `create2`  (let's say at `0xFFF` )
+`Deployer` then deploys a `Proposal` (at `0xABC`) using `create`
 Get the DAO to approve the `Proposal`
-Then attacker deletes the `Proposal` with `emergencyStop()`
+Then attacker deletes the `Proposal` with `emergencyStop()`(which is in `0xABC`, also deletes `Deployer` (which is at `0xFFF`)
+Then attacker can redeploy the `Deployer` using `DeployerDeployer` using create2 (at `0xFFF`)
+Attacker now calls `Deployer.deployAttack()` to deploy `Attack` at the address of `0xABC` 
+Reminded that `Deployer.deployAttack()` using `create`, how can it deploy the `Attack` under the same address?
+It's because `address = last 20 bytes of sha3(rlp_encode(sender, nonce))`
+If we can somehow reset the nonce, the address will be the same
+Now the attacker can call the malicious code to gain owner access to the DAO
 
+Normal situation:
+![[Pasted image 20240714170133.png]]
+
+Attack situation:
+![[Pasted image 20240714170255.png]]
 
 ```solidity
 // SPDX-License-Identifier: MIT
