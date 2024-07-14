@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Hacks/Untitled.md",
+                "file": "Common Hacks/WETH Permit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Hacks/Untitled.md",
+                "file": "Common Hacks/WETH Permit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Hacks/Untitled.md",
+                "file": "Common Hacks/WETH Permit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Hacks/Untitled.md"
+                "file": "Common Hacks/WETH Permit.md"
               }
             }
           }
@@ -148,34 +148,34 @@
   },
   "active": "879f998b332c2774",
   "lastOpenFiles": [
-    "Common Hacks/Reentrancy.md",
-    "Common Hacks/Untitled.md",
+    "Common Hacks/Vault Inflation.md",
+    "Common Hacks/WETH Permit.md",
+    "Common Hacks/Signature Replay.md",
+    "Common Hacks/Accessing Private Data.md",
+    "Common Hacks/Arithmetic overflow or underflow.md",
+    "Common Hacks/Bypass Contract Size Check.md",
+    "Common Hacks/Delegatecall Exploit.md",
+    "Common Hacks/Denial of Service.md",
     "Common Hacks/Front Running.md",
+    "Common Hacks/Self Destruct.md",
+    "Common Hacks/Source of Randomness.md",
+    "Common Hacks/Reentrancy.md",
     "Common Hacks/Deploy Different Contracts at the Same Address.md",
     "Pasted image 20240714170255.png",
     "Pasted image 20240714170133.png",
-    "Common Hacks/Denial of Service.md",
-    "Common Hacks/Accessing Private Data.md",
-    "Common Hacks/Self Destruct.md",
-    "Common Hacks/Source of Randomness.md",
     "Common Hacks/Phishing with tx.origin.md",
-    "Common Hacks/Bypass Contract Size Check.md",
-    "Common Hacks/Delegatecall Exploit.md",
-    "Common Hacks/Arithmetic overflow or underflow.md",
     "Insecure Patterns/Array too large to reset.md",
     "Insecure Patterns/Not increment the unchecked i in continue statement.md",
     "Insecure Patterns/Flashloan allowing arbitrary code execution.md",
     "Insecure Patterns/External call does not revert when return false.md",
     "Insecure Patterns/Decimals mismatched when doing calculation.md",
     "Insecure Patterns/Condition always invalid in `require()`.md",
-    "Signature Replay.md",
     "Solidity Basics/Basics of Smart Contracts.md",
     "Solidity Basics/Delete.md",
     "Solidity Basics/Address.md",
     "Solidity Basics/Sending Ether with Send, Transfer and Call.md",
     "Solidity Basics/Storage Layout.md",
     "Solidity Basics/Storage Layout of Dynamic Array.md",
-    "Solidity Basics/Try Catch.md",
     "Untitled",
     "Solidity Basics",
     "Untitled 2.canvas",
