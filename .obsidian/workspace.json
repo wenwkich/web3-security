@@ -148,6 +148,7 @@
   },
   "active": "879f998b332c2774",
   "lastOpenFiles": [
+    "Pasted image 20240714225024.png",
     "Solidity Basics/Constants and Immutable.md",
     "Solidity Basics/Immutable.md",
     "Solidity Basics/Constructor.md",
@@ -175,7 +176,6 @@
     "Insecure Patterns/Decimals mismatched when doing calculation.md",
     "Insecure Patterns/Condition always invalid in `require()`.md",
     "Solidity Basics/Basics of Smart Contracts.md",
-    "Solidity Basics/Delete.md",
     "Untitled",
     "Solidity Basics",
     "Untitled 2.canvas",

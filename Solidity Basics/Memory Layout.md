@@ -26,3 +26,13 @@ struct S {
     uint8 d;
 }
 ```
+
+
+write `mstore(1, 0x22)` will store the data like this:
+```
+0x00: 0x0000000000000000000000000000000000000000000000000000000000000000
+0x20: 0x2200000000000000000000000000000000000000000000000000000000000000
+```
+![[Pasted image 20240714225024.png]]
+
+More memory is used, the gas used goes up quadratically
