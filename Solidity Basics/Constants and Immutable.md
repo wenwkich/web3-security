@@ -11,3 +11,7 @@ contract Constants {
 	uint256 public constant MY_UINT = 123; 
 }
 ```
+
+Immutables are similar, cannot be modified later but they can be set inside of constructor 
+
+Note that constants and immutable don't use storage

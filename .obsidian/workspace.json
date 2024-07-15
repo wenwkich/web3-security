@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity Basics/Storage Layout.md",
+                "file": "Solidity Basics/Memory Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity Basics/Storage Layout.md",
+                "file": "Solidity Basics/Memory Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity Basics/Storage Layout.md",
+                "file": "Solidity Basics/Memory Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidity Basics/Storage Layout.md"
+                "file": "Solidity Basics/Memory Layout.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "879f998b332c2774",
   "lastOpenFiles": [
+    "Solidity Basics/Constants and Immutable.md",
+    "Solidity Basics/Immutable.md",
+    "Solidity Basics/Constructor.md",
+    "Solidity Basics/Storage Layout.md",
     "Common Hacks/WETH Permit.md",
     "Common Hacks/Vault Inflation.md",
     "Common Hacks/Signature Replay.md",
@@ -172,10 +176,6 @@
     "Insecure Patterns/Condition always invalid in `require()`.md",
     "Solidity Basics/Basics of Smart Contracts.md",
     "Solidity Basics/Delete.md",
-    "Solidity Basics/Address.md",
-    "Solidity Basics/Sending Ether with Send, Transfer and Call.md",
-    "Solidity Basics/Storage Layout.md",
-    "Solidity Basics/Storage Layout of Dynamic Array.md",
     "Untitled",
     "Solidity Basics",
     "Untitled 2.canvas",

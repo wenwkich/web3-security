@@ -4,6 +4,6 @@
 - [[Conversion of Types]]
 
 There are also 
-- [[Constants]]
+- [[Constants and Immutable]]
 - [[Immutable]]
 - [[Globally available variables]]

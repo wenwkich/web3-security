@@ -1,4 +1,5 @@
 https://docs.soliditylang.org/en/v0.8.26/internals/layout_in_memory.html
+https://solidity-by-example.org/evm/memory/
 
 Solidity reserves four 32-byte slots, with specific byte ranges (inclusive of endpoints) being used as follows:
 
