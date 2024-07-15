@@ -6,3 +6,23 @@
 - Data following [[Structs]] and [[Arrays]] always start on a new slot
 - Static arrays are stored continuously, while dynamic are not, see [[Storage Layout of Dynamic Array]]
 - [[Storage Layout of Mappings]]
+
+Example
+```solidity
+contract EVM {
+	// slot 0
+	uint256 public full_slot;
+	// slot 1
+	uint128 public s_a; 
+	uint64 public s_b; 
+	uint32 public s_c; 
+	uint32 public s_d;
+
+	function test_sstore() public {
+		assembly {
+			
+		}
+	}
+}
+
+```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Hacks/WETH Permit.md",
+                "file": "Solidity Basics/Storage Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Hacks/WETH Permit.md",
+                "file": "Solidity Basics/Storage Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Hacks/WETH Permit.md",
+                "file": "Solidity Basics/Storage Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Hacks/WETH Permit.md"
+                "file": "Solidity Basics/Storage Layout.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "879f998b332c2774",
   "lastOpenFiles": [
-    "Common Hacks/Vault Inflation.md",
     "Common Hacks/WETH Permit.md",
+    "Common Hacks/Vault Inflation.md",
     "Common Hacks/Signature Replay.md",
     "Common Hacks/Accessing Private Data.md",
     "Common Hacks/Arithmetic overflow or underflow.md",
