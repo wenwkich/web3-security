@@ -10,13 +10,14 @@
           {
             "id": "879f998b332c2774",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "srs-review-view",
               "state": {
-                "file": "Solidity Basics/Memory Layout.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Common Hacks/Denial of Service.md",
+                "mode": "question"
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity Basics/Memory Layout.md",
+                "file": "Common Hacks/Denial of Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity Basics/Memory Layout.md",
+                "file": "Common Hacks/Denial of Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidity Basics/Memory Layout.md"
+                "file": "Common Hacks/Denial of Service.md"
               }
             }
           }
@@ -148,6 +149,14 @@
   },
   "active": "879f998b332c2774",
   "lastOpenFiles": [
+    "Common Hacks/Front Running.md",
+    "Insecure Patterns/Not increment the unchecked i in continue statement.md",
+    "Insecure Patterns/Flashloan allowing arbitrary code execution.md",
+    "Insecure Patterns/Decimals mismatched when doing calculation.md",
+    "Insecure Patterns/Condition always invalid in `require()`.md",
+    "Insecure Patterns/Array too large to reset.md",
+    "Insecure Patterns/Reuse of `msg.value` with looped delegatecall.md",
+    "Solidity Basics/Memory Layout.md",
     "Pasted image 20240714225024.png",
     "Solidity Basics/Constants and Immutable.md",
     "Solidity Basics/Immutable.md",
@@ -161,7 +170,6 @@
     "Common Hacks/Bypass Contract Size Check.md",
     "Common Hacks/Delegatecall Exploit.md",
     "Common Hacks/Denial of Service.md",
-    "Common Hacks/Front Running.md",
     "Common Hacks/Self Destruct.md",
     "Common Hacks/Source of Randomness.md",
     "Common Hacks/Reentrancy.md",
@@ -169,13 +177,7 @@
     "Pasted image 20240714170255.png",
     "Pasted image 20240714170133.png",
     "Common Hacks/Phishing with tx.origin.md",
-    "Insecure Patterns/Array too large to reset.md",
-    "Insecure Patterns/Not increment the unchecked i in continue statement.md",
-    "Insecure Patterns/Flashloan allowing arbitrary code execution.md",
     "Insecure Patterns/External call does not revert when return false.md",
-    "Insecure Patterns/Decimals mismatched when doing calculation.md",
-    "Insecure Patterns/Condition always invalid in `require()`.md",
-    "Solidity Basics/Basics of Smart Contracts.md",
     "Untitled",
     "Solidity Basics",
     "Untitled 2.canvas",
